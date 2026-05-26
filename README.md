@@ -35,13 +35,4 @@ Run the application:
 
 Bash
 npm start
-🛠️ Tech Stack
-Frontend: HTML, CSS, JavaScript / React (Edit based on your stack)
 
-Backend/Framework: Electron.js / Node.js (Edit based on your stack)
-
-🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-📝 License
-This project is licensed under the MIT License - see the LICENSE file for details.
