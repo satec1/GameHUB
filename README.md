@@ -22,7 +22,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/GameHub.git
+git clone https://github.com/satec1/GameHub.git
 Navigate to the project directory:
 
 Bash
